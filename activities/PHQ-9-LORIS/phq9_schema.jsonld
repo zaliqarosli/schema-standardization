@@ -1,8 +1,8 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/phq9_context.jsonld"
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-04-LORISCompatibility/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-04-LORISCompatibility/activities/PHQ-9-LORIS/phq9_context.jsonld"
     ],
-    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
+    "@type": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-04-LORISCompatibility/schemas/Activity.jsonld",
     "@id": "phq9_schema",
     "skos:prefLabel": "PHQ-9 Assessment",
     "skos:altLabel": "phq9_schema",
@@ -49,7 +49,7 @@
                 "phq9_10"
               ]
             }
-        }
+        },
         "shuffle": false,
         "visibility": {
             "phq9_1": true,

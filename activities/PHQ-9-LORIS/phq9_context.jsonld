@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "phq9": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/items/",
+        "phq9": "https://raw.githubusercontent.com/ReproNim/schema-standardization/tree/2019-04-04-LORISCompatibility/activities/PHQ-9-LORIS/items",
         "phq9_0": {
             "@id": "phq9:phq9_0.jsonld",
             "@type": "@id"
