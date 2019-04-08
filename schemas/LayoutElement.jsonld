@@ -84,21 +84,6 @@
             }
         },
         {
-            "@id": "schema:question",
-            "@type": "rdf:Property",
-            "rdfs:comment": "The preamble for the instrument.",
-            "rdfs:label": "preamble",
-            "schema:domainIncludes": {
-                "@id": ""
-            },
-            "schema:rangeIncludes": {
-                "@id": "schema:Text"
-            },
-            "schema:sameAs": {
-                "@id": "https://schema.org/question"
-            }
-        },
-        {
             "@id": "repronim:ui",
             "@type": "rdf:Property",
             "rdfs:comment": "An element to describe the ui of an Activity.",
@@ -129,24 +114,6 @@
             },
             "schema:sameAs": {
                 "@id": "https://schema.repronim.org/order"
-            }
-        },
-        {
-            "@id": "repronim:pages",
-            "@type": "rdf:Property",
-            "rdfs:comment": "An element to describe the order in which the pages of an instrument appears in the ui.",
-            "rdfs:label": "pages",
-            "rdfs:subPropertyOf": {
-                "@id": "repronim:ui"
-            },
-            "schema:domainIncludes": {
-                "@id": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/LayoutElement.jsonld"
-            },
-            "schema:rangeIncludes": {
-                "@id": "schema:URL"
-            },
-            "schema:sameAs": {
-                "@id": "https://schema.repronim.org/pages"
             }
         },
         {

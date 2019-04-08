@@ -50,6 +50,12 @@
             "@type": "@vocab",
             "@nest": "ui"
         },
+        "pages": {
+            "@id": "https://schema.repronim.org/pages",
+            "@container": "@list",
+            "@type": "@vocab",
+            "@nest": "ui"
+        },
         "shuffle": {
             "@id": "https://schema.repronim.org/shuffle",
             "@type": "schema:Boolean",
