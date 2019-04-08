@@ -1,0 +1,17 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/phq9_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "@id": "phq9_1",
+    "skos:prefLabel": "Q0 of PHQ-9 Questionnaire",
+    "skos:altLabel": "phq9_1",
+    "schema:description": "Q0 of the PHQ-9 Assessment",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "Example static element: Start of PHQ-9 questionnaire",
+    "ui": {
+        "inputType": null
+    },
+    "responseOptions": null
+}

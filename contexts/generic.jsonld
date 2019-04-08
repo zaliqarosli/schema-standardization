@@ -40,6 +40,10 @@
             "@id": "https://schema.repronim.org/order",
             "@container": "@list",
             "@type": "@vocab",
+        },
+        "pages": {
+            "@id": "https://schema.repronim.org/pages",
+            "@container": "@index",
             "@nest": "ui"
         },
         "shuffle": {
