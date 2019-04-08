@@ -20,6 +20,7 @@
         ],
         "shuffle": false,
         "visibility": {
+            "phq9_0": true,
             "phq9_1": true,
             "phq9_2": true,
             "phq9_3": true,

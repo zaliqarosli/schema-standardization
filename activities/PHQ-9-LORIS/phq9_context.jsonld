@@ -10,6 +10,10 @@
             "@id": "phq9:phq9_page2.jsonld",
             "@type": "@id"
         }, 
+        "phq9_0": {
+            "@id": "phq9:phq9_0.jsonld",
+            "@type": "@id"
+        },
         "phq9_1": {
             "@id": "phq9:phq9_1.jsonld",
             "@type": "@id"

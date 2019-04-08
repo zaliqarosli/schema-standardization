@@ -13,6 +13,7 @@
     "ui": {
         "layoutType": "page",
         "order": [
+            "phq9_0",
             "phq9_1",
             "phq9_2",
             "phq9_3",

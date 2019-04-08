@@ -1,0 +1,17 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/activities/PHQ-9-LORIS/phq9_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "@id": "phq9_0",
+    "skos:prefLabel": "Header of PHQ-9 Questionnaire",
+    "skos:altLabel": "phq9_0",
+    "schema:description": "Header of the PHQ-9 Assessment",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": "Questions of the PHQ-9 Questionnaire",
+    "ui": {
+        "inputType": null
+    },
+    "responseOptions": null
+}
