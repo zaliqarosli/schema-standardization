@@ -77,6 +77,11 @@
             "@type": "xsd:string",
             "@nest": "ui"
         },
+        "layoutType": {
+            "@id": "https://schema.repronim.org/layoutType",
+            "@type": "xsd:string",
+            "@nest": "ui"
+        },
         "branchLogic": {
             "@id": "https://schema.repronim.org/branchLogic",
             "@container": "@index"
@@ -85,8 +90,13 @@
             "@id": "https://schema.repronim.org/scoringLogic",
             "@container": "@index"
         },
-        "visibility": {
-            "@id": "https://schema.repronim.org/visibility",
+        "displayIf": {
+            "@id": "https://schema.repronim.org/displayIf",
+            "@container": "@index",
+            "@nest": "ui"
+        },
+        "requireIf": {
+            "@id": "https://schema.repronim.org/requireIf",
             "@container": "@index",
             "@nest": "ui"
         },
