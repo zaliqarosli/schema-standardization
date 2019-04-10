@@ -147,24 +147,6 @@
             }
         },
         {
-            "@id": "repronim:order",
-            "@type": "rdf:Property",
-            "rdfs:comment": "An element to describe the order in which the fields and layout elements of an instrument appears in the ui.",
-            "rdfs:label": "pages",
-            "rdfs:subPropertyOf": {
-                "@id": "repronim:ui"
-            },
-            "schema:domainIncludes": {
-                "@id": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/LayoutElement.jsonld"
-            },
-            "schema:rangeIncludes": {
-                "@id": "schema:URL"
-            },
-            "schema:sameAs": {
-                "@id": "https://schema.repronim.org/pages"
-            }
-        },
-        {
             "@id": "repronim:shuffle",
             "@type": "rdf:Property",
             "rdfs:comment": "An element to determine if the list of items is shuffled or in order.",
