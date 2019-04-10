@@ -9,6 +9,7 @@
     "schema:description": "schema for total score of the PHQ-9 Assessment",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
+    "question": "Total Score",
     "ui": {
         "inputType": "static",
         "readonly": true,
