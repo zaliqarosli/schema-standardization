@@ -39,7 +39,7 @@
             "medicalhistory_7a": "if([medicalhistory_7]='yes',true,false)",
             "medicalhistory_21": true,
             "medicalhistory_21d": true
-        },
+        }
     }
 }
 

@@ -13,6 +13,6 @@
         "inputType": "text"
     },
     "responseOptions": {
-        "type": "xsd:int",
+        "type": "xsd:int"
     }
 }

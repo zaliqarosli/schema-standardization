@@ -5,7 +5,7 @@
         "age": {
             "@id": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-18-AddTableLayoutElement/items/age_text.jsonld",
             "@type": "@id"
-        }
+        },
         "incident": {
             "@id": "items:medicalhistory_incident.jsonld",
             "@type": "@id"
