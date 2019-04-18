@@ -1,0 +1,78 @@
+{
+    "@context": {
+        "@version": 1.1,
+        "items": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/items/",
+        "age": {
+            "@id": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/items/age_text.jsonld",
+            "@type": "@id"
+        }
+        "incident": {
+            "@id": "items:medicalhistory_incident.jsonld",
+            "@type": "@id"
+        },
+        "hospitalized": {
+            "@id": "items:medicalhistory_hospitalized.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_1": {
+            "@id": "items:medicalhistory_1.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_2": {
+            "@id": "items:medicalhistory_2.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_2a": {
+            "@id": "items:medicalhistory_2a.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_7": {
+            "@id": "items:medicalhistory_7.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_7a": {
+            "@id": "items:medicalhistory_7a.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_21": {
+            "@id": "items:medicalhistory_21.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_21d": {
+            "@id": "items:medicalhistory_21d.jsonld",
+            "@type": "@id"
+        },
+        "concussion_table": {
+            "@id": "items:medicalhistory_concussion_table.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_multipartA": {
+            "@id": "items:medicalhistory_multipartA.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_multipartB": {
+            "@id": "items:medicalhistory_multipartB.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_multipartC": {
+            "@id": "items:medicalhistory_multipartC.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_multipartD": {
+            "@id": "items:medicalhistory_multipartD.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_page1": {
+            "@id": "items:medicalhistory_page1.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_page2": {
+            "@id": "items:medicalhistory_page2.jsonld",
+            "@type": "@id"
+        },
+        "medicalhistory_page3": {
+            "@id": "items:medicalhistory_page3.jsonld",
+            "@type": "@id"
+        }
+    }
+}

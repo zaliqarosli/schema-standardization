@@ -3,15 +3,15 @@
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
-    "@id": "medicalhistory_1a",
-    "skos:prefLabel": "Q1 of Medical History Instrument",
-    "skos:altLabel": "medicalhistory_1a",
-    "schema:description": "Q1 of Medical History Instrument",
+    "@id": "medicalhistory_21",
+    "skos:prefLabel": "Q21 of Medical History Instrument",
+    "skos:altLabel": "medicalhistory_21",
+    "schema:description": "Q21 of Medical History Instrument",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "question": "1. Do you have any type of arthritis?",
+    "question": "21. Have you ever had a concussion?",
     "ui": {
         "inputType": "radio"
     },
-    "responseOptions": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/valueConstraints.jsonld"
+    "responseOptions": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/value_constraints/yes_no.jsonld"
 }

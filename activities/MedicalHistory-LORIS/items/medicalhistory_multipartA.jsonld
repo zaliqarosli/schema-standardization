@@ -14,7 +14,7 @@
         "layoutType": "multipart",
         "order": [
             "medicalhistory_1",
-            "medicalhistory_2"
+            "age"
         ],
         "shuffle": false
     }

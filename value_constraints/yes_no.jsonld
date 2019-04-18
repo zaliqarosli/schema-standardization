@@ -1,6 +1,5 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/medicalhistory_context.jsonld"
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld"
     ],
     "type": "xsd:string",
     "multipleChoice": false,

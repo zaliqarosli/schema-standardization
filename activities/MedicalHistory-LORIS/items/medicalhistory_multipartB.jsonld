@@ -13,8 +13,8 @@
     "ui": {
         "layoutType": "multipart",
         "order": [
-            "medicalhistory_3",
-            "medicalhistory_4"
+            "medicalhistory_2",
+            "medicalhistory_2a"
         ],
         "shuffle": false
     }

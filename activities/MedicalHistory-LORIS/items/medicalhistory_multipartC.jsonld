@@ -13,9 +13,9 @@
     "ui": {
         "layoutType": "multipart",
         "order": [
-            "medicalhistory_5",
-            "medicalhistory_6",
-            "medicalhistory_7"
+            "medicalhistory_7",
+            "medicalhistory_7a",
+            "age"
         ],
         "shuffle": false
     }
