@@ -61,6 +61,10 @@
         "phq9_category": {
             "@id": "phq9:items/phq9_category.jsonld",
             "@type": "@id"
+        },
+        "not_answered": {
+            "@id": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/items/not_answered.jsonld",
+            "@type": "@id"
         }
     }
 }

@@ -76,6 +76,11 @@
             "@type": "xsd:string",
             "@nest": "ui"
         },
+        "headerLevel": {
+            "@id": "https://schema.repronim.org/headerLevel",
+            "@type": "xsd:int",
+            "@nest": "ui"
+        },
         "branchLogic": {
             "@id": "https://schema.repronim.org/branchLogic",
             "@container": "@index"

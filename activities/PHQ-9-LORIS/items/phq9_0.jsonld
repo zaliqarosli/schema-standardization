@@ -11,7 +11,8 @@
     "schema:version": "0.0.1",
     "question": "Questions of the PHQ-9 Questionnaire",
     "ui": {
-        "inputType": null
+        "inputType": "header",
+        "headerLevel": 3
     },
     "responseOptions": null
 }

@@ -18,9 +18,12 @@
             "phq9_page1",
             "phq9_page2"
         ],
+        "allow": [
+            "not_answered"
+        ],
         "shuffle": false,
         "displayIf": {
-            "phq9_0": true,
+            "phq9_0": false,
             "phq9_1": true,
             "phq9_2": true,
             "phq9_3": true,
