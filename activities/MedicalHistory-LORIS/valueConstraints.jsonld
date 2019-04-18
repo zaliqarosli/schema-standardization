@@ -1,0 +1,17 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/medicalhistory_context.jsonld"
+    ],
+    "type": "xsd:string",
+    "multipleChoice": false,
+    "requiredValue": true,
+    "choices": [{
+        "schema:name": "Yes",
+        "schema:value": "yes"
+    },
+    {
+        "schema:name": "No",
+        "schema:value": "no"
+    },
+    ]
+}

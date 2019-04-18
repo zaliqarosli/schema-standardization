@@ -1,15 +1,15 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/PHQ-9/phq9_context.jsonld"
+        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
-    "@id": "phq9_3",
-    "skos:prefLabel": "Q3 of PHQ-9 Questionnaire",
-    "skos:altLabel": "phq9_3",
-    "schema:description": "Q3 of the PHQ-9 Assessment",
+    "@id": "medicalhistory_1a",
+    "skos:prefLabel": "Q1 of Medical History Instrument",
+    "skos:altLabel": "medicalhistory_1a",
+    "schema:description": "Q1 of Medical History Instrument",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "question": "Trouble falling or staying asleep, or sleeping too much?",
+    "question": "1. Do you have any type of arthritis?",
     "ui": {
         "inputType": "radio"
     },
