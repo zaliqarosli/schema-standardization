@@ -1,6 +1,6 @@
 {
     "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-18-AddTableLayoutElement/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Activity.jsonld",
     "@id": "medicalhistory_schema",

@@ -1,1 +1,1 @@
-This directory contains all the items in the Patient Health Questionnaire - 9 (PHQ-9) instrument. 
+This directory contains all the items in the LORIS Medical History instrument. 

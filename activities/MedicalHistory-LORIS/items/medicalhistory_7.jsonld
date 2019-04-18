@@ -1,6 +1,6 @@
 {
-    "@context": [ "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/contexts/generic.jsonld",
-        "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
     "@id": "medicalhistory_7",
@@ -13,5 +13,5 @@
     "ui": {
         "inputType": "radio"
     },
-    "responseOptions": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/value_constraints/yes_no.jsonld"
+    "responseOptions": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-18-AddTableLayoutElement/value_constraints/yes_no.jsonld"
 }

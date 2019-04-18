@@ -1,9 +1,9 @@
 {
     "@context": {
         "@version": 1.1,
-        "items": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/MedicalHistory-LORIS/items/",
+        "items": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-18-AddTableLayoutElement/activities/MedicalHistory-LORIS/items/",
         "age": {
-            "@id": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/items/age_text.jsonld",
+            "@id": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-18-AddTableLayoutElement/items/age_text.jsonld",
             "@type": "@id"
         }
         "incident": {
