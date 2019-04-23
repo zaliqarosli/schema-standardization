@@ -18,7 +18,7 @@
             "phq9_page1",
             "phq9_page2"
         ],
-        "allow": [
+        "statusOptions": [
             "not_answered"
         ],
         "shuffle": false,
@@ -47,7 +47,19 @@
             "phq9_8": true,
             "phq9_9": true,
             "phq9_10": "[phq9_1] > 0 or [phq9_2] > 0 or [phq9_3] > 0 or [phq9_4] > 0 or [phq9_5] > 0 or [phq9_6] > 0 or [phq9_7] > 0 or [phq9_8] > 0 or [phq9_9] > 0"
-
+        },
+        "addStatus": {
+            "phq9_0": true,
+            "phq9_1": true,
+            "phq9_2": true,
+            "phq9_3": true,
+            "phq9_4": true,
+            "phq9_5": true,
+            "phq9_6": true,
+            "phq9_7": true,
+            "phq9_8": true,
+            "phq9_9": true,
+            "phq9_10": true
         }
     }
 }

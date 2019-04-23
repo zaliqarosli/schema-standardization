@@ -55,8 +55,8 @@
             "@type": "schema:Boolean",
             "@nest": "ui"
         },
-        "allow": {
-            "@id": "https://schema.repronim.org/allow",
+        "statusOptions": {
+            "@id": "https://schema.repronim.org/statusOptions",
             "@container": "@list",
             "@type": "@vocab",
             "@nest": "ui"
@@ -96,6 +96,11 @@
         },
         "requireIf": {
             "@id": "https://schema.repronim.org/requireIf",
+            "@container": "@index",
+            "@nest": "ui"
+        },
+        "addStatusOptions": {
+            "@id": "https://schema.repronim.org/addStatusOptions",
             "@container": "@index",
             "@nest": "ui"
         },
