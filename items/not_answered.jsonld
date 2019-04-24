@@ -12,9 +12,5 @@
     "ui": {
         "inputType": "checkbox"
     },
-    "responseOptions": {
-        "type": "xsd:string",
-        "schema:name": "Not Answered",
-        "schema:value": "not_answered"
-    }
+    "responseOptions": "dontKnow"
 }

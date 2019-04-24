@@ -1,0 +1,7 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld"
+    ],
+    "type": "xsd:string",
+    "schema:name": "Don't Know",
+    "schema:value": "dont_know"
+}

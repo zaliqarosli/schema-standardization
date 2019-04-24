@@ -105,7 +105,7 @@
             "@nest": "ui"
         },
         "skipped": "https://schema.repronim.org/refused_to_answer",
-        "dontKnow": "https://schema.repronim.org/dont_know_answer",
+        "dontKnow": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/value_constraints/dont_know.jsonld",
         "timedOut": "https://schema.repronim.org/timed_out",
         "method": "schema:httpMethod",
         "url": "schema:url",
