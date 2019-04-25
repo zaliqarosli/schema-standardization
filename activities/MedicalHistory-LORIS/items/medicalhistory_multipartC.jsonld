@@ -1,0 +1,22 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/schemas/LayoutElement.jsonld",
+    "@id": "medicalhistory_multipartC",
+    "skos:prefLabel": "Section C of Medical History Instrument",
+    "skos:altLabel": "medicalhistory_multipartC",
+    "schema:description": "Section C of Medical History Instrument",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": "C. Cardiac/Cardiovascular",
+    "ui": {
+        "layoutType": "multipart",
+        "order": [
+            "medicalhistory_7",
+            "medicalhistory_7a",
+            "age"
+        ],
+        "shuffle": false
+    }
+}

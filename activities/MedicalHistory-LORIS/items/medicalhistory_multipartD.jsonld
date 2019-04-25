@@ -1,0 +1,21 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/schemas/LayoutElement.jsonld",
+    "@id": "medicalhistory_multipartD",
+    "skos:prefLabel": "Section D of Medical History Instrument",
+    "skos:altLabel": "medicalhistory_multipartD",
+    "schema:description": "Section D of Medical History Instrument",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "preamble": "D. Neurological",
+    "ui": {
+        "layoutType": "multipart",
+        "order": [
+            "medicalhistory_21",
+            "medicalhistory_21d"
+        ],
+        "shuffle": false
+    }
+}

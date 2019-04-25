@@ -4,13 +4,13 @@
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/NDA/nda_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
-    "@id": "birthPlace",
-    "skos:prefLabel": "City of birth(as in birth certificate)",
-    "skos:altLabel": "birthPlace",
-    "schema:description": "schema for City of birth of participant",
+    "@id": "state",
+    "skos:prefLabel": "State of residence",
+    "skos:altLabel": "state",
+    "schema:description": "schema for state of residence of participant",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "question": "City of birth",
+    "question": "State of residence",
     "ui": {
         "inputType": "select"
     },

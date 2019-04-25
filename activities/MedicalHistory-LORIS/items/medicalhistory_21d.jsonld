@@ -1,0 +1,33 @@
+{
+    "@context": [ "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/contexts/generic.jsonld",
+        "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/activities/MedicalHistory-LORIS/medicalhistory_context.jsonld"
+    ],
+    "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
+    "@id": "medicalhistory_21d",
+    "skos:prefLabel": "Q21d of Medical History Instrument",
+    "skos:altLabel": "medicalhistory_21d",
+    "schema:description": "Q21d of Medical History Instrument",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "question": "d) Are you currently experiencing any problems that you think might be related to a concussion?",
+    "ui": {
+        "inputType": "multiselect"
+    },
+    "responseOptions": {
+        "type": "xsd:string",
+        "multipleChoice": true,
+        "choices": [{
+            "schema:name": "Headaches",
+            "schema:value": "Headaches"
+        },
+        {
+            "schema:name": "Dizziness",
+            "schema:value": "Dizziness"
+        },
+        {
+            "schema:name": "Memory problems",
+            "schema:value": "Memory problems"
+        }
+        ]
+    }
+}

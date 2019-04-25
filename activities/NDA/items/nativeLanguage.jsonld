@@ -4,13 +4,13 @@
         "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/activities/NDA/nda_context.jsonld"
     ],
     "@type": "https://raw.githubusercontent.com/ReproNim/schema-standardization/master/schemas/Field.jsonld",
-    "@id": "birthPlace",
-    "skos:prefLabel": "City of birth(as in birth certificate)",
-    "skos:altLabel": "birthPlace",
-    "schema:description": "schema for City of birth of participant",
+    "@id": "nativeLanguage",
+    "skos:prefLabel": "Native language of participant",
+    "skos:altLabel": "nativeLanguage",
+    "schema:description": "schema for native language of participant",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
-    "question": "City of birth",
+    "question": "Native Language",
     "ui": {
         "inputType": "select"
     },

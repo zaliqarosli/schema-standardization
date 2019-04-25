@@ -104,6 +104,15 @@
             "@container": "@index",
             "@nest": "ui"
         },
+        "variableMap": {
+            "@id": "https://schema.repronim.org/variableMap",
+            "@container": "@list"
+        },
+        "variableName": "https://schema.repronim.org/variableName",
+        "isAbout": {
+            "@id": "https://schema.repronim.org/isAbout",
+            "@type": "@vocab"
+        },
         "skipped": "https://schema.repronim.org/refused_to_answer",
         "dontKnow": "https://raw.githubusercontent.com/zaliqarosli/schema-standardization/2019-04-08-AddSubActivities/value_constraints/dont_know.jsonld",
         "timedOut": "https://schema.repronim.org/timed_out",
